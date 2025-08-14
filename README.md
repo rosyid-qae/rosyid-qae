@@ -40,7 +40,7 @@
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/abdulrosyid](https://linkedin.com/in/abdulrosyid)  
-- Email: abdulrosyid@example.com  
+- Email: rosyid.qa@gmail.com  
 - GitHub: [github.com/rosyid-qae](https://github.com/rosyid-qae)
 
 ---
